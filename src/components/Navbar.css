@@ -1,0 +1,8 @@
+.active {
+    color: chocolate
+}
+
+.hover {
+    color: darkgoldenrod;
+    font-weight: bold;
+}
